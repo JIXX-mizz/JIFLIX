@@ -1,0 +1,26 @@
+body {
+    background: black;
+    color: white;
+    margin: 0px;
+    font-family: "Jaro", sans-serif;
+}
+
+header {
+    border-bottom: solid 6px rgb(169 157 81);
+    padding: 20px;
+    font-size: 32px;
+    color: brown;
+}
+
+section {
+    background: rgb(215 117 20 / 20%);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+div {
+    margin-right: 20px;
+}
+
